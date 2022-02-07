@@ -1,0 +1,25 @@
+{
+  "name": "socialnetworkapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuraiHuey/socialNetworkAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuraiHuey/socialNetworkAPI/issues"
+  },
+  "homepage": "https://github.com/SamuraiHuey/socialNetworkAPI#readme"
+}
