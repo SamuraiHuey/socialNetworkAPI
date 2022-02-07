@@ -1,5 +1,6 @@
 const express = require('express');
 const routes = require('./routes');
+const db = require('./config/connection')
 
 const app = express();
 const PORT = process.env.PORT || 3001;
